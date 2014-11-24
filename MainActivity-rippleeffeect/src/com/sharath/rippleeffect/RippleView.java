@@ -45,7 +45,7 @@ import android.view.animation.ScaleAnimation;
 import android.widget.RelativeLayout;
 
 /**
- * Author :    sharath
+ * Author :    sharathyadhav
  * Date :      24/11/2014
  */
 public class RippleView extends RelativeLayout
